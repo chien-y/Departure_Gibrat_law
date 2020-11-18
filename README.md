@@ -1,1 +1,1 @@
-# Departure_Gibrat_law
+# Explaining systemaitc departures from Gibrat's law
